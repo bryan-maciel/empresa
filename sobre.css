@@ -1,0 +1,49 @@
+body {
+    background-color: #111111;
+    color: #fff;
+}
+
+nav {
+    background-image: url(https://blogdageografia.com/wp-content/uploads/photo-gallery/6e30f63d-5df3-462f-934b-f075886261da.jpg?bwg=1688961111);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 20px;
+    color: #00f7ff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #3d3b39;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+h1, h2 {
+    font-family: "Sofia", sans-serif;
+  font-size: 30px;
+    color: #FFC300;
+}
+
+p {
+    color: #b1aaaa;
+    line-height: 1.6;
+    font-size: xx-large;
+}
